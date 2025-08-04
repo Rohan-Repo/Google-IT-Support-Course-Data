@@ -1,0 +1,226 @@
+Decimal to Binary conversion : https://www.youtube.com/watch?v=H4BstqvgBow
+
+Scrum vs Agile - https://youtu.be/K7YMEFjh724?si=S9OTXwg-g0vVujNh
+
+Scrum - https://youtu.be/iJ_sl6J8PRg?si=RteNcnWxaW1Zqn6Q
+
+Intro to Scrum in Under 10 Minutes - https://youtu.be/XU0llRltyFM?si=PTDHVsptopTEzJE9
+
+Simplex and Duplex: Vid 1 - 
+https://youtu.be/kKCDLk9irkQ?si=JbBrfpEX2aBbt0fK
+
+Vid 2 (Extra)
+https://youtu.be/LMRSS7ZYM50?si=XY6oxOU2o6GesHbe
+
+CSMA/CD - Carrier Sense Multiple Access with Collision Detection:
+Vid 1 - 
+https://www.youtube.com/watch?v=K_8KJRhOWIA
+
+Vid 2 (Extra)
+https://www.youtube.com/watch?v=iKn0GzF5-IU
+
+Unicast, Multicast, and Broadcast: https://www.youtube.com/watch?v=J3W2BAoI3vI
+
+Subnet Mask - https://www.youtube.com/watch?v=s_Ntt6eTn94
+
+IGP and EGP - https://www.youtube.com/watch?v=e5gkr36AN2M
+
+Link State, Distance Vector, and Hybrid Routing Protocols - https://www.youtube.com/watch?v=LwbBHpjTEWo
+
+BGP - https://www.youtube.com/watch?v=A1KXPpqlNZ4
+
+Ethernet Cables, UTP vs STP, Straight vs Crossover, CAT 5,5e,6,7,8 Network Cables :
+https://www.youtube.com/watch?v=_NX99ad2FUA
+
+Network Types: LAN, WAN, PAN, CAN, MAN, SAN, WLAN - https://www.youtube.com/watch?v=4_zSIXb7tLQ
+
+TCP - 12 simple ideas to explain the Transmission Control Protocol
+https://www.youtube.com/watch?v=JFch3ctY6nE
+
+TCP vs UDP - https://www.youtube.com/watch?v=uwoD5YsGACg
+
+Z-Wave vs. Zigbee - https://www.youtube.com/watch?v=cH46z4ElJ6o
+
+Zigbee - https://www.youtube.com/watch?v=pFDkibWy0yg
+Z-Wave - https://www.youtube.com/watch?v=155_RhqlEbY
+
+IP Address - IPv4 vs IPv6 - https://www.youtube.com/watch?v=ThdO9beHhpA
+IPv6 - https://www.youtube.com/watch?v=irhS0ASkvy8
+IPv6 Subnet Masks - https://www.youtube.com/watch?v=Rgsn8Gwiu9w
+
+Virtual Memory #0 - https://www.youtube.com/watch?v=59MxYkCs1rg
+Virtual Memory #1 - https://www.youtube.com/watch?v=YQomH95j3P8
+Virtual Memory #2 - https://www.youtube.com/watch?v=qeOBEOBJREs
+
+SSH - https://www.youtube.com/watch?v=zlv9dI-9g1U
+
+RDP - https://www.youtube.com/watch?v=rT-4V1YPPj8
+
+Telnet vs SSH - https://www.youtube.com/watch?v=tZop-zjYkrU
+
+RAID 0, 1, 5, & 10 - https://www.youtube.com/watch?v=U-OCdTeZLac
+RAID 0, 1, 5, & 10 - https://www.youtube.com/watch?v=A_UXW9lUCxY
+
+Full vs Incremental vs Differential Backup - https://www.youtube.com/watch?v=o-83E6levzM
+
+Network Ports - https://www.youtube.com/watch?v=g2fT-g9PX9o
+
+FTP, SFTP, TFTP - https://www.youtube.com/watch?v=tOj8MSEIbfA
+
+Symmetric vs. Asymmetric Encryption - https://www.youtube.com/watch?v=z2aueocJE8Q
+
+PKI - https://www.youtube.com/watch?v=i-rtxrEz_E8
+SSL, TLS, HTTP, HTTPS - https://www.youtube.com/watch?v=hExRDVZHhig
+SSL/TLS Handshake 1 - https://www.youtube.com/watch?v=sEkw8ZcxtFk
+SSL/TLS Handshake 2 - https://www.youtube.com/watch?v=j9QmMEWmcfo
+Hashing - https://www.youtube.com/watch?v=EOe1XUykdP4
+
+HIDS vs. NIDS - https://www.youtube.com/watch?v=HQf2Ya53Bt0
+What is a Firewall - https://www.youtube.com/watch?v=kDEX1HXybrU
+DoS and DDoS Attack - https://www.youtube.com/watch?v=ilhGh9CEIwM
+IDS and IPS - https://www.youtube.com/watch?v=cMH4yGE73iQ
+Wireshark Vid #1 - https://www.youtube.com/watch?v=qTaOZrDnMzQ
+Wireshark Vid Playlist - https://www.youtube.com/playlist?list=PLR0bgGon_WTK9PHDzrlje4bqEh3p0NxxX
+Linux ARP Command - https://www.youtube.com/watch?v=iVvKbcWHwrQ
+TCP Dump - https://www.youtube.com/watch?v=e45Kt1IYdCI
+PCI DSS - https://www.youtube.com/watch?v=szVmMxWORBc
+
+APIPA Explained - Automatic Private IP Addressing - https://www.youtube.com/watch?v=0tEjUR6tjBU
+What is ARP: https://www.youtube.com/watch?v=cn8Zxh9bPio
+DNS: https://www.youtube.com/watch?v=mpQZVYPuDGU
+DHCP: https://www.youtube.com/watch?v=e6-TaH5bkjo
+DNS Records : https://www.youtube.com/watch?v=HnUDtycXSNE
+Cable vs DSL vs Fiber Internet - https://www.youtube.com/watch?v=qQYiwmamq38
+LAN, WAN, SUBNET - https://www.youtube.com/watch?v=NyZWSvSj8ek
+2.4 GHz vs 5 GHz WiFi - https://www.youtube.com/watch?v=J_bf_KE5llQ
+WiFi (Wireless) Password Security - https://www.youtube.com/watch?v=WZaIfyvERcA
+WIFI (wireless) Standards and Generations - https://www.youtube.com/watch?v=hhks5xSpM-0
+
+CDN - Content Delivery Network - https://www.youtube.com/watch?v=nhhfSBm6v4A
+Proxy Server - https://www.youtube.com/watch?v=5cPIukqXe5w
+Proxy vs Reverse Proxy - https://www.youtube.com/watch?v=RXXRguaHZs0
+VPN (Virtual Private Network) - https://www.youtube.com/watch?v=R-JUOpCgTZc
+
+OAuth 1 - https://www.youtube.com/watch?v=BNEoKexlmA4
+OAuth 2 - https://www.youtube.com/watch?v=t4-416mg6iU
+Radius & TacAc+ - https://www.youtube.com/watch?v=nUyZ2RP8zmE
+Kerberos 0 (Simplified) - https://www.youtube.com/watch?v=JGwVwNZgJUc
+Kerberos 1 - https://www.youtube.com/watch?v=_44CHD3Vx-0
+Kerberos 2 - https://www.youtube.com/watch?v=BjXn4-shnDs
+Kerberos Authentication - https://www.youtube.com/watch?v=5N242XcKAsM
+Kerberos vs. LDAP - https://www.youtube.com/watch?v=Xjpi8xYqPcY
+LDAP 0 - https://www.youtube.com/playlist?list=PLj6pCIF3neQ6opgjDaUc9xvgHiN5YAvmo
+LDAP 1 - https://www.youtube.com/watch?v=SK8Yw-CiRHk
+LDAP 2 - https://www.youtube.com/watch?v=5rEA7vRV3VE
+LDAP & AD - https://www.youtube.com/watch?v=0FwOcZNjjQA
+AD - https://www.youtube.com/watch?v=GfqsFtmJQg0
+
+TACACS+ is a device access AAA system which manages who has acess to ur N/w & what do they do on them 
+Radius will track details like session duration, cleint location & bandwidth for other resources on the N/w, length of data sent & received by devices
+
+Ping of Death Attack - It works by sending a malformed ping, one which is larger in size than what the IP was meant to handle causing a buffer overflow and causing System to crash and allowing Attacker to execute malicious code.
+
+
+Nano Editor Cheatsheet - https://www.nano-editor.org/dist/latest/cheatsheet.html
+Shell Scripting Reference - https://www.tutorialspoint.com/unix/shell_scripting.htm
+Shell Scripting Course - https://www.codecademy.com/learn/introduction-to-linux-bash-scripting
+Bash for beginners Playlist - https://www.youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l
+
+Linux Playlist - https://www.youtube.com/playlist?list=PLWPirh4EWFpGsim4cuJrh9w6-yfuC9XqI
+
+If $SHELL not on Bash -
+1. which bash 
+/usr/bin/bash
+This changes shell to bash
+
+chmod +x / chmod 700 
+
+
+Cisco Packet Tracer:
+DNS & DHCP:
+https://www.youtube.com/watch?v=7OxAKmFcvBk
+https://www.youtube.com/watch?v=G-kFr0Kp-zU
+
+What is Cisco Packet Tracer - https://www.youtube.com/watch?v=M66J7oRU400
+
+Install Cisco Packet-Tracer (New) - https://www.youtube.com/watch?v=7sWn9MAuJFM
+Install Cisco Packet-Tracer (Old) - https://www.youtube.com/watch?v=oq7BgtnMleg
+
+Cisco Packet Tracer Playlist - https://www.youtube.com/playlist?list=PLVFyjfF2Drdt9hXs37KTPTIqtNVCXFfOG
+
+Basic Home Wifi Connection - https://www.youtube.com/watch?v=v1-en1yAlJs
+
+RIP Routing - https://www.youtube.com/watch?v=R7L5GocFDnE
+
+Course - https://skillsforall.com/learningcollections/cisco-packet-tracer?courseLang=en-US
+
+S/W Location #1 - https://skillsforall.com/resources/lab-downloads?courseLang=en-US
+S/W Location #2 : https://www.netacad.com/articles/news/download-cisco-packet-tracer?courseLang=en-US
+
+npowerconn
+
+Office 365 Tutorial:
+https://www.computerworld.com/article/2121520/microsoft-onedrive-cheat-sheet-using-onedrive-for-web.html
+
+https://support.microsoft.com/en-us/office/office-for-the-web-training-e315b031-2bd5-40a1-99ca-264ebf2c8f96
+
+Win11 Display Resolution Done:
+https://www.youtube.com/watch?v=1XaPXGYMwTo
+
+VMWare Player Tuts:
+https://www.youtube.com/playlist?list=PLUbdHOaN18CjF419-meM1itT1WzcOoIsK
+
+Windows Server 2019 - Playlist - https://www.youtube.com/playlist?list=PLUZTRmXEpBy32NP6z_qvVBOTWUzdTZVHt
+
+DNS:
+https://www.youtube.com/watch?v=-TsqAHUWdQU
+
+ADDS Setup Root domain : npower.com
+https://www.youtube.com/watch?v=h3sxduUt5a8
+
+Learn DNS - https://www.youtube.com/watch?v=0VD3IFRW2cs
+
+Setup FTP Server on Windows Server 2019:
+https://www.youtube.com/watch?v=MljiL5LtjWc
+
+Setup FTP Server on Ubuntu:
+https://www.youtube.com/watch?v=t50UfbGvWhw
+https://www.linode.com/docs/guides/vsftpd-on-ubuntu-2004-installation-and-configuration/
+
+Apache Server Configuration:
+https://www.baeldung.com/linux/apache-web-server-two-ports
+
+https://www.youtube.com/watch?v=a4wam3TTjv0
+
+Gen AI Vids
+
+What is Data - https://www.youtube.com/watch?v=-r2U6pfeJa8
+
+What is AI - https://www.youtube.com/watch?v=UdE-W30oOXo
+
+Gen AI - https://www.youtube.com/watch?v=rwF-X5STYks
+
+Gen AI Extra - https://www.youtube.com/watch?v=pWNAtUwnBS8
+
+History of AI (Extra) - https://www.youtube.com/watch?v=yaL5ZMvRRqE
+
+AL, ML, DL and Gen-AI Difference - https://www.youtube.com/watch?v=qYNweeDHiyU
+
+DeepFake Vid #1 - https://www.youtube.com/watch?v=cQ54GDm1eL0
+DeepFake Vid #2 - https://www.youtube.com/shorts/oPbuyJqSQ2k
+
+Vector Databases - https://www.youtube.com/watch?v=ebMkbWzFCnA
+
+Managing Windows permissions with CLI (Icacls) // Windows Fundamentals:
+https://www.youtube.com/watch?v=ddtc2rgtgAI
+
+How to use Sticky bit in Linux || SetUID || SetGID || Linux Special Permissions:
+https://www.youtube.com/watch?v=-BDmmlgF1kM
+
+Basic Windows Features: https://learn.microsoft.com/en-us/shows/inside/
+
+Event Viewer - https://learn.microsoft.com/en-us/shows/inside/event-viewer
+Task Manager - https://learn.microsoft.com/en-us/shows/inside/task-manager
+Device Manager - https://learn.microsoft.com/en-us/shows/inside/device-manager
+
+Event Viewer & Windows Logs - https://www.youtube.com/watch?v=X0WDzktpr5I

@@ -1,0 +1,53 @@
+Hello Everyone, 
+
+Please find the information for installing Virtual Machines on Windows and Mac machines.
+
+For folks on Windows or Intel Based Mac Machines please use Oracle VirtualBox:
+
+Oracle VirtualBox Software Download Link - https://www.virtualbox.org/wiki/Downloads
+
+Link to Download Ubuntu ISO - https://ubuntu.com/download/desktop
+
+Install Ubuntu on VirtualBox (Blog) - https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox
+
+Install Ubuntu on VirtualBox (Video) #1 - https://www.youtube.com/watch?v=8uYjoBh21IU
+
+For folks on M1/M2/M3 please use UTM or VMWare Fusion pro:
+
+UTM Software Download Link - https://mac.getutm.app/
+
+Install Ubuntu on UTM - https://www.youtube.com/watch?v=O19mv1pe76M
+
+Install Ubuntu on VMWare Fusion Pro - https://www.youtube.com/watch?v=kDrtX8i6U5M
+
+If these options are not working for you please use the following alternatives:
+1. Use the Online Tool - https://www.onworks.net/ to try out different OS's
+2. The Online link to Learn Linux Commands : https://www.webminal.org/
+3. Try out different Linux distros - https://distrosea.com/ 
+4. For Windows you can use The Coursera QuikLabs
+
+For Windows Installation:
+Link to Download Windows 10 ISO - https://www.microsoft.com/en-ca/software-download/windows10
+Create the Windows 10 ISO with Media Creation Tool - https://www.youtube.com/watch?v=sJULX3Dh9T4
+
+Link to Download Windows 11 ISO - https://www.microsoft.com/en-ca/software-download/windows11
+
+Installing Windows OS:
+Windows 10 Installation VirtualBox - https://www.youtube.com/watch?v=JT8EXoobjSc
+Windows 11 Installation VirtualBox - https://www.youtube.com/watch?v=ZI8dRhZ14Ls
+
+On Mac Systems:
+Install VMWare Fusion Pro and Windows 11 : https://www.youtube.com/watch?v=LWXO4DhQRL0
+Install UTM and and Windows 11 : https://www.youtube.com/watch?v=BlVw0_CmscY
+
+Extra:
+Install VirtualBox (Video) - https://www.youtube.com/watch?v=nvdnQX9UkMY
+
+Updated Videos:
+Install Ubuntu on VirtualBox (Video) #2 - https://www.youtube.com/watch?v=FhXpDFs-rfs
+Windows 11 Installation VirtualBox #2 - https://www.youtube.com/watch?v=xbzwz9MoK24
+
+Installing VM's on Chromebook is a bit tricky and a lot of times you could encounter issues, but I found a few resources which might be useful to you.
+
+Installing VM (Blog) - https://helpdeskgeek.com/how-to-install-and-use-virtualbox-on-your-chromebook/
+Installing VM (Video) - https://www.youtube.com/watch?v=1b4c6D7OTH0

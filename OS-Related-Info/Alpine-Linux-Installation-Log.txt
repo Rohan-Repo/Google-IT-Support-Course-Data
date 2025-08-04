@@ -1,0 +1,42 @@
+   0 clear
+   1 apk add nano
+   2 nano /etc/apk/repositories 
+   3 clear
+   4 cat /etc/apk/repositories 
+   5 apk update
+   6 apk add sudo
+   7 clear
+   8 setup-xorg-base xfce4 xfce4-terminal dbus-x11 thunar-volman
+   9 clear
+  10 rc-service dbus start
+  11 rc-update add dbus
+  12 rc-service udev start
+  13 rc-update add udev
+  14 apk add lightdm lightdm-gtk-greeter
+  15 rc-update add lightdm
+  16 apk add polkit consolekit2
+  17 apk add firefox filezilla gedit lrzip faenza-icon-theme
+  18 apk add gimp
+  19 apk search vmmouse
+  20 apk search vmware
+  21 apk add xf86-input-vmmouse xf86-video-vmware
+  22 apk add open-vm-tools-gtk
+  23 rc-update add open-vm-tools
+  24 reboot
+  25 hostname
+  26 uanme -a ; date ; uptime
+  27 apk add curl
+  28 curl wttr.in
+  29 exit
+  30 history 
+  31 clear
+  32 history >> Alpine-Installation-Log.txt
+  39 groups npower-admin
+  40 usermod -aG sudo npower-admin
+  41 cat /etc/sudoers
+  50 adduser npower-sudo-user
+  51 deluser npower-sudo-user
+  53 deluser --remove-home npower-sudo-user
+  54 cat /etc/passwd
+  55 cat /etc/passwd | grep -i npower
+  60 deluser --remove-home jita-user 
