@@ -1,0 +1,68 @@
+Install RDP on Ubuntu:
+$ sudo apt install xrdp
+$ sudo systemctl enable --now xrdp
+$ sudo ufw allow from any to any port 3389 proto tcp
+
+Remove XRDP:
+sudo apt-get remove xrdp
+sudo apt-get purge xrdp
+	Delete Config Files:
+sudo rm /lib/systemd/system/xrdp*
+sudo rm /usr/local/bin/xrdp*
+sudo rm /usr/local/sbin/xrdp*
+sudo rm /etc/xrdp/rsakeys.ini
+	Clean up packages:
+sudo apt autoremove -y && sudo apt autoclean -y
+
+Create Users:
+npoweradmin@NPower-Ubuntu-VM:~$ sudo adduser remusr_1
+[sudo] password for npoweradmin: 
+info: Adding user `remusr_1' ...
+info: Selecting UID/GID from range 1000 to 59999 ...
+info: Adding new group `remusr_1' (1001) ...
+info: Adding new user `remusr_1' (1001) with group `remusr_1 (1001)' ...
+info: Creating home directory `/home/remusr_1' ...
+info: Copying files from `/etc/skel' ...
+New password: 
+BAD PASSWORD: The password is shorter than 8 characters
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for remusr_1
+Enter the new value, or press ENTER for the default
+	Full Name []: Remote Connection User #1
+	Room Number []: 1
+	Work Phone []: +1-123-456-7890
+	Home Phone []: +1-987-654-3210
+	Other []: 
+Is the information correct? [Y/n] y
+info: Adding new user `remusr_1' to supplemental / extra groups `users' ...
+info: Adding user `remusr_1' to group `users' ...
+npoweradmin@NPower-Ubuntu-VM:~$ sudo usermod -aG sudo remusr_1
+
+npoweradmin@NPower-Ubuntu-VM:~$ groups remusr_1
+remusr_1 : remusr_1 sudo users
+
+npoweradmin@NPower-Ubuntu-VM:~$ sudo adduser remusr_2
+info: Adding user `remusr_2' ...
+info: Selecting UID/GID from range 1000 to 59999 ...
+info: Adding new group `remusr_2' (1002) ...
+info: Adding new user `remusr_2' (1002) with group `remusr_2 (1002)' ...
+info: Creating home directory `/home/remusr_2' ...
+info: Copying files from `/etc/skel' ...
+New password: 
+BAD PASSWORD: The password is shorter than 8 characters
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for remusr_2
+Enter the new value, or press ENTER for the default
+	Full Name []: Remote Connection User #2
+	Room Number []: 2
+	Work Phone []: +1-987-654-3210
+	Home Phone []: +1-123-456-7890
+	Other []: 
+Is the information correct? [Y/n] y
+info: Adding new user `remusr_2' to supplemental / extra groups `users' ...
+info: Adding user `remusr_2' to group `users' ...
+npoweradmin@NPower-Ubuntu-VM:~$ sudo usermod -aG sudo remusr_2
+npoweradmin@NPower-Ubuntu-VM:~$ groups remusr_2
+remusr_2 : remusr_2 sudo users
